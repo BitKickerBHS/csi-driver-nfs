@@ -19,4 +19,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/kubernetes-csi/csi-driver-nfs/master/charts/v2.0.0/csi-driver-nfs-v2.0.0.tgz
     version: v2.0.0
-generated: 2021-02-05T13:28:16.727677516Z
+generated: "2021-02-05T13:28:16.727677516Z"
